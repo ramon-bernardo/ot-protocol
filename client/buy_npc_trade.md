@@ -11,5 +11,5 @@
 | item_id          | u16        |       |
 | count_or_subtype | u8         |       |
 | amount           | u16        |       |
-| ignore-capacity  | bool       |       |
+| ignore_capacity  | bool       |       |
 | with_backpack    | bool       |       |
