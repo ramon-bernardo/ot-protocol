@@ -6,8 +6,8 @@
 
 ### Last version
 
-| Field name    | Field type | Notes |
-| ------------- | ---------- | ----- |
-| item_position | Position   |       |
-| item_id       | u16        |       |
-| stack         | u8         |       |
+| Field name | Field type | Notes |
+| ---------- | ---------- | ----- |
+| from       | Position   |       |
+| item_id    | u16        |       |
+| stack      | u8         |       |

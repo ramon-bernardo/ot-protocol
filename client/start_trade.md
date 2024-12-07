@@ -1,8 +1,8 @@
-### Move Packet
+### Start Trade Packet
 
 |               | Hexadecimal | Decimal | Protocol   |
 | ------------- | ----------- | ------- | ---------- |
-| **Packet Id** | 0x78        | 120     | Game sever |
+| **Packet Id** | 0x7D        | 125     | Game sever |
 
 ### Last version
 
@@ -11,5 +11,4 @@
 | from       | Position   |       |
 | item_id    | u16        |       |
 | stack      | u8         |       |
-| to         | Position   |       |
-| count      | u8         |       |
+| player_id  | u32        |       |

@@ -9,4 +9,4 @@
 | Field name    | Field type | Notes |
 | ------------- | ---------- | ----- |
 | counter_offer | bool       |       |
-| item_index    | u8         |       |
+| index         | u8         |       |
